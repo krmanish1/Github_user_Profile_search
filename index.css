@@ -237,13 +237,13 @@ img {
 
 @media screen and (max-width: 360px) {
   .container {
-    align-items: flex-start;
+    align-items: center;
     height: 1000px;
   }
 
   .hero {
     /* border: 2px solid green; */
-    margin-top: 20px;
+    margin-top: 70px;
     height: 48% !important;
     width: 80%;
   }
@@ -366,7 +366,7 @@ img {
   }
 
   .hero {
-    margin-top: 20px;
+    margin-top: 80px;
     height: 50% !important;
     width: 80%;
   }
